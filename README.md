@@ -38,13 +38,13 @@ Migliorare la qualità e la struttura dei progetti
 
 Continuare a imparare attraverso hands-on practice
 
-📜 Certificazioni
+📜 **Certificazioni**
 ISO Certified Data Analyst & AI – Develhope
 
-💡 Soft Skills
+💡 **Soft Skills**
 Problem Solving · Teamwork · Comunication · Leadership
 
-📫 Contatti
+📫 **Contatti**
  Email: gagliardimatteo97@gmail.com
  LinkedIn: http://www.linkedin.com/in/matteo-gagliardi97
  
